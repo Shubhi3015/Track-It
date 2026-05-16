@@ -1,0 +1,8 @@
+[phases.install]
+cmds = ["npm install --prefix server", "npm install --prefix client"]
+
+[phases.build]
+cmds = ["npm --prefix client run build"]
+
+[start]
+cmd = "npm --prefix server start"
