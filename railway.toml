@@ -1,4 +1,2 @@
-[deploy]
-
-[deploy.variables]
-RAILPACK_INSTALL_CMD = "npm run install:all"
+[build]
+buildCommand = "npm run install:all && npm run build"
