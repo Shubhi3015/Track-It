@@ -102,13 +102,3 @@ Track It is a full-stack team task manager with a themeable, Linear-inspired int
    ```bash
    npm --prefix server run seed
    ```
-
-## Screenshots
-
-- Dashboard screenshot: add `docs/screenshots/dashboard.png`
-- Project board screenshot: add `docs/screenshots/project-board.png`
-- Admin users screenshot: add `docs/screenshots/admin-users.png`
-
-## Demo Video
-
-Demo video link: add your hosted walkthrough URL here after recording.
